@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "TZFmlmBLEBMqKLRpCFmAxCrnei3X2II4LudI9wXGo300wkhWoCi3NubLTzy+LEHoBb52K13FViLrkIe2GmC7Fg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alex\\Documents\\coding_workspace\\sol_scraper\\Scraper\\Scraper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alex\\.nuget\\packages\\chaos.nacl.standard\\1.0.0\\chaos.nacl.standard.1.0.0.nupkg.sha512",
+    "C:\\Users\\alex\\.nuget\\packages\\coingeckoasyncapi\\1.4.4\\coingeckoasyncapi.1.4.4.nupkg.sha512",
+    "C:\\Users\\alex\\.nuget\\packages\\coretweet\\1.0.0.483\\coretweet.1.0.0.483.nupkg.sha512",
+    "C:\\Users\\alex\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\5.0.10\\microsoft.aspnetcore.jsonpatch.5.0.10.nupkg.sha512",
+    "C:\\Users\\alex\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\5.0.10\\microsoft.aspnetcore.mvc.newtonsoftjson.5.0.10.nupkg.sha512",
+    "C:\\Users\\alex\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\alex\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0\\microsoft.extensions.configuration.5.0.0.nupkg.sha512",
+    "C:\\Users\\alex\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\alex\\.nuget\\packages\\microsoft.extensions.configuration.binder\\5.0.0\\microsoft.extensions.configuration.binder.5.0.0.nupkg.sha512",
+    "C:\\Users\\alex\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0\\microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",
+    "C:\\Users\\alex\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\alex\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
+    "C:\\Users\\alex\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\alex\\.nuget\\packages\\microsoft.extensions.logging.configuration\\5.0.0\\microsoft.extensions.logging.configuration.5.0.0.nupkg.sha512",
+    "C:\\Users\\alex\\.nuget\\packages\\microsoft.extensions.logging.console\\5.0.0\\microsoft.extensions.logging.console.5.0.0.nupkg.sha512",
+    "C:\\Users\\alex\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\alex\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\5.0.0\\microsoft.extensions.options.configurationextensions.5.0.0.nupkg.sha512",
+    "C:\\Users\\alex\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\alex\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\alex\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\alex\\.nuget\\packages\\portable.bouncycastle\\1.8.2\\portable.bouncycastle.1.8.2.nupkg.sha512",
+    "C:\\Users\\alex\\.nuget\\packages\\solnet.programs\\0.4.3\\solnet.programs.0.4.3.nupkg.sha512",
+    "C:\\Users\\alex\\.nuget\\packages\\solnet.rpc\\0.4.3\\solnet.rpc.0.4.3.nupkg.sha512",
+    "C:\\Users\\alex\\.nuget\\packages\\solnet.wallet\\0.4.3\\solnet.wallet.0.4.3.nupkg.sha512"
+  ],
+  "logs": []
+}
